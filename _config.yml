@@ -1,0 +1,26 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.5407023
+  lightness: 0.1283566
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  rhythmicContrast: 0.9393126
+typography_spectrum: 0.4172932
+layout_spectrum: 0.3442535
+name: TheAspire
